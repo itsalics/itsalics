@@ -35,7 +35,7 @@ A passionate developer with deep expertise in low-level programming (Assembly, C
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>C</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>C++</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br/>C#</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/otavio/devicon/master/icons/asm/asm-original.svg" width="45"/><br/>Assembly</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/assembly.svg" width="45"/><br/>Assembly</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>Python</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br/>PHP</td>
     </tr>
@@ -54,7 +54,7 @@ A passionate developer with deep expertise in low-level programming (Assembly, C
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br/>Arduino</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45"/><br/>Raspberry Pi</td>
-      <td align="center"><img src="https://www.svgrepo.com/show/353715/esp32.svg" width="45"/><br/>ESP32</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="45"/><br/>ESP32</td>
       <td align="center"><img src="https://www.svgrepo.com/show/373457/avr.svg" width="45"/><br/>AVR/ATmega</td>
     </tr>
   </table>
@@ -68,7 +68,7 @@ A passionate developer with deep expertise in low-level programming (Assembly, C
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/><br/>Ubuntu</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45"/><br/>Debian</td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="45"/><br/>Fedora</td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="45"/><br/>Kali</td>
+      <td align="center"><img src="https://cdn.simpleicons.org/kalilinux/557CF2" width="45"/><br/>Kali</td>
     </tr>
   </table>
 
