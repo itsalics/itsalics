@@ -19,7 +19,7 @@
 </svg>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Assembly+%26+C%2B%2B+Expert;AVR%2C+ATmega%2C+Arduino;ESP32+%26+Raspberry+Pi;Linux+Kernel+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Assembly+%26+Low-Level+Expert;C%2C+C%2B%2B+%26+C%23+Developer;AVR%2C+ATmega+%26+Microcontrollers;ESP32%2C+ESP8266+%26+Raspberry+Pi;Arduino+%26+IoT+Solutions;Linux+Kernel+%26+Kali+Linux;Python%2C+PHP+%26+Kotlin;Web+%26+Android+Development" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
