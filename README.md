@@ -30,53 +30,55 @@ A passionate developer with deep expertise in low-level programming (Assembly, C
 ---
 
 ### 🚀 Programming Languages
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/><br/>C#</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/11135067/164951493-270529d4-1a3b-47e2-89b5-4f36c5b9f783.png" width="40"/><br/>Assembly</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br/>PHP</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/><br/>Kotlin</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML5</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JS</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br/>C</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>C++</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br/>C#</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/otavio/devicon/master/icons/asm/asm-original.svg" width="45"/><br/>Assembly</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br/>Python</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br/>PHP</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/><br/>Kotlin</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br/>HTML5</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br/>CSS3</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br/>JS</td>
+    </tr>
+  </table>
 
 ---
 
-### 🛠️ Hardware & Embedded Systems (AVR, ESP, Pi)
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/><br/>Arduino</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/><br/>Raspberry Pi</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/esp32.svg" width="40"/><br/>ESP32/8266</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/AVR_logo.svg" width="40"/><br/>AVR/ATmega</td>
-  </tr>
-</table>
+### 🛠️ Hardware & Embedded Systems
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/><br/>Arduino</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45"/><br/>Raspberry Pi</td>
+      <td align="center"><img src="https://www.svgrepo.com/show/353715/esp32.svg" width="45"/><br/>ESP32</td>
+      <td align="center"><img src="https://www.svgrepo.com/show/373457/avr.svg" width="45"/><br/>AVR/ATmega</td>
+    </tr>
+  </table>
 
 ---
 
 ### 🐧 Linux Distributions
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/><br/>Linux</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/><br/>Ubuntu</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="40"/><br/>Debian</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40"/><br/>Fedora</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" width="40"/><br/>Kali</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br/>Linux</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/><br/>Ubuntu</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45"/><br/>Debian</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="45"/><br/>Fedora</td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="45"/><br/>Kali</td>
+    </tr>
+  </table>
 
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=itsalics&show_icons=true&theme=radical" alt="Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalics&layout=compact&theme=radical" alt="Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsalics&show_icons=true&theme=radical" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsalics&layout=compact&theme=radical" alt="Langs" />
+</p>
 
 </div>
