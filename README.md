@@ -61,6 +61,16 @@ A passionate developer with deep expertise in low-level programming (Assembly, C
 
 ---
 
+### 🗄️ Database & Servers
+  <table>
+    <tr>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" height="45"/><br/>Apache</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/><br/>SQL/MySQL</td>
+    </tr>
+  </table>
+
+---
+
 ### 🐧 Linux Distributions
   <table>
     <tr>
